@@ -29,9 +29,7 @@ npm run preview    # serve o dist/ localmente
 
 O build usa `base: './'` (`vite.config.ts`), então o conteúdo de `dist/` pode ser publicado em **qualquer subpasta** sem recompilar:
 
-1. `npm run build`
-2. Copie tudo de `dist/` para o caminho do módulo, ex.: `/brex/etiquetas/`
-3. Aponte o menu/iframe da Torre de Controle para `https://<dominio>/brex/etiquetas/`
+
 
 Os caminhos de assets são relativos (`./assets/...`), então a mesma pasta funciona em qualquer host/subpasta.
 
