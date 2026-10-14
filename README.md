@@ -1,4 +1,4 @@
-# LongarinaPrint — Módulo de Etiquetas da Torre de Controle Brex
+# LongarinaPrint — Módulo de Etiquetas
 
 Aplicação React/Vite para criar, editar e imprimir etiquetas térmicas (4x6) de longarina e porta-paletes, com leitor de código de barras (Web Serial / câmera) e geração em lote.
 
